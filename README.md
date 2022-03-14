@@ -1,3 +1,1 @@
-"# Web304 Assignment#1" 
-"# Web304" 
-Angular Shopping Cart
+This project is uing Angular to create Shopping Cart
